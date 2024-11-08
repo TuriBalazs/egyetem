@@ -1,0 +1,4 @@
+196454 196500 Siofok Veszprem 0 53 6.2 
+196500 196546 Veszprem Siofok 0 43 6.5 
+196553 196699 Siofok Kecskemet 2 46 6.4 
+196304 196450 Kecskemet Siofok 3 11 5.2 

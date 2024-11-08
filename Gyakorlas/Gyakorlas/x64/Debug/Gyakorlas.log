@@ -1,0 +1,6 @@
+﻿  Turi_Balazs_ProbaZH.cpp
+C:\Users\balázs\source\repos\Gyakorlas\Gyakorlas\Turi_Balazs_ProbaZH.cpp(42,37): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\balázs\source\repos\Gyakorlas\Gyakorlas\Turi_Balazs_ProbaZH.cpp(43,74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\balázs\source\repos\Gyakorlas\Gyakorlas\Turi_Balazs_ProbaZH.cpp(44,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\balázs\source\repos\Gyakorlas\Gyakorlas\Turi_Balazs_ProbaZH.cpp(63,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Gyakorlas.vcxproj -> C:\Users\balázs\source\repos\Gyakorlas\x64\Debug\Gyakorlas.exe
