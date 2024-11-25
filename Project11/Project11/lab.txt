@@ -1,0 +1,8 @@
+Egy csoport hallgatóinak eredményeit tároljuk az adatok.txt-ben. A csoport legfeljebb 15 fős lehet. Végezze el a következő feladatokat:
+- Hozza létre az adatok tárolásához a megfelelő szerkezetű változót!
+- Töltse fel a változókat adatokkal a fájlból (Név, ea1, m1, m2, m3). Véletlenszám generálásával adja meg az ea2 eredményt (0-15). Kérje be ellenőrzöttem a felhasználótól a gyakorlati eredményt (0-50).
+- Számítsa ki az összesen elért pontot, ha az m1, m2 és m3 teljesítve van
+- Hány fő jár a csoportba?
+- Írassa ki táblázatosan az adatokat a konzolra, úgy hogy a jegy mellé írja ki szövegesen az eredményt
+- Mennyi volt a legjobb és legrosszabb pontszám, ki érte el? (Csak a teljesített moodle esetét kell vizsgálni!)
+- Mennyi a csoport átlaga?

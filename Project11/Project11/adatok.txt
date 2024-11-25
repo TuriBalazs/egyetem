@@ -1,0 +1,15 @@
+Molnár_István 6 1 1 1
+Farkas_Gábor 8 1 1 1
+Kiss_Zoltán 2 1 0 1
+Szabó_László 2 1 1 1
+Balogh_László 3 1 1 1
+Farkas_Zoltán 11 1 1 1
+Nagy_Attila 12 0 0 1
+Molnár_Ferenc 6 1 1 1
+Tóth_Gábor 3 1 1 1
+Kiss_Péter 7 1 1 1
+Balogh_Ferenc 10 1 1 1
+Szabó_Zoltán 8 1 1 1
+Molnár_Gábor 3 1 1 1
+Szabó_Ferenc 9 1 1 1
+
