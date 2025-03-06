@@ -1,0 +1,74 @@
+/*Egy utazó ügynök az alábbi városokban járt januárban:
+Kecskemet, Szeged, Pecs, Baja, Gyor, Miskolc, Vac, Cegled, Sopron, Eger
+Februárban az alábbi városokat látogatta meg:
+Budapest, Kecskemet, Szeged,Pecs,Baja, Esztergom, Salgotarjan
+Azt tudjuk, hogy egyik hónapban sem dolgozott 10 napnál többször.
+Készítsünk programot mely kimutatja:
+1 - Mely városokban járt mindkét hónapban ?
+2 - Mely városokban volt legalább egyszer a két hónap alatt? */
+
+#include <iostream>
+#include <string> 
+using namespace std;
+
+
+{
+	// Adatbevitel 
+	int i, j, jdb, fdb, cdb = 0;
+	string A[10] = { "Kecskemet", "Szeged", "Pecs", "Baja", "Gyor", "Miskolc", "Vac", "Cegled", "Sopron","Eger" };
+	string B[7] = { "Budapest", "Kecskemet", "Szeged","Pecs","Baja", "Esztergom", "Salgotarjan" };
+	string C[20];
+
+	cout << "Az alabbi varosokban jart januarban :\n";
+	for (i = 0; i<10; i++)
+		cout << A[i] << " ";
+	cout << endl;
+
+	cout << endl << "Az alabbi varosokban jart februarban :\n";
+	for (i = 0; i<7; i++)
+		cout << B[i] << " ";
+	cout << endl<<endl;
+
+	// Mindkét hónapban látogatta ( metszet)
+
+	for (i = 0; i<10; i++)
+	{
+		j = 0;
+		while (j<7 && A[i] != B[j])
+			j++;
+
+		if (j<7) { C[cdb] = A[i]; cdb++; }
+	}
+
+	cout <<"Az alabbi varosokban jart mindket honapban :\n";
+	for (i = 0; i<cdb; i++)
+		cout << C[i] << " ";
+	cout << endl;
+
+	// Legalább az egyik hónapban látogatta ( unió)
+	for (i = 0; i<10; i++)
+	{
+		C[i] = A[i];
+	}
+	cout << endl;
+
+	cdb = 10;
+	for (j = 0; j<7; j++)
+	{
+		i = 0;
+		while (i<10 && A[i] != B[j])
+			i++;
+
+		if (i>10 - 1) { C[cdb] = B[j]; cdb++; }
+	}
+
+	cout << "Az alabbi varosokban jart legalabb az egyik honapban :\n";
+	for (i = 0; i<cdb; i++)
+		cout << C[i] << " ";
+
+	cout << endl;
+
+	system("pause");
+	return 0;
+}
+
