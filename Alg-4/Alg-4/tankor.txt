@@ -1,0 +1,7 @@
+Bela 4 5
+Belzebub 5 5
+Feri 4 2
+Imola 2 3
+Lajos 3 1
+Miklos 3 3
+Sarolta 4 5
