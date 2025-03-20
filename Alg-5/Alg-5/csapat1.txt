@@ -1,0 +1,7 @@
+tempo 27 192
+cingár 15 201
+ziccer 19 187
+kicsi 11 179
+laza 17 203
+kecses 21 199
+vagány 14 197
