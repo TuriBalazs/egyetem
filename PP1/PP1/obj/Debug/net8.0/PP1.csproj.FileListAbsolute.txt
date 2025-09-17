@@ -1,0 +1,14 @@
+C:\Users\4-110-4\source\repos\PP1\PP1\bin\Debug\net8.0\PP1.exe
+C:\Users\4-110-4\source\repos\PP1\PP1\bin\Debug\net8.0\PP1.deps.json
+C:\Users\4-110-4\source\repos\PP1\PP1\bin\Debug\net8.0\PP1.runtimeconfig.json
+C:\Users\4-110-4\source\repos\PP1\PP1\bin\Debug\net8.0\PP1.dll
+C:\Users\4-110-4\source\repos\PP1\PP1\bin\Debug\net8.0\PP1.pdb
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\PP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\PP1.AssemblyInfoInputs.cache
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\PP1.AssemblyInfo.cs
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\PP1.csproj.CoreCompileInputs.cache
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\PP1.dll
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\refint\PP1.dll
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\PP1.pdb
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\PP1.genruntimeconfig.cache
+C:\Users\4-110-4\source\repos\PP1\PP1\obj\Debug\net8.0\ref\PP1.dll
