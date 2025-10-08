@@ -1,0 +1,14 @@
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\progpara4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\progpara4.AssemblyInfoInputs.cache
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\progpara4.AssemblyInfo.cs
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\progpara4.csproj.CoreCompileInputs.cache
+C:\Users\4-110-4\source\repos\progpara4\progpara4\bin\Debug\net8.0\progpara4.exe
+C:\Users\4-110-4\source\repos\progpara4\progpara4\bin\Debug\net8.0\progpara4.deps.json
+C:\Users\4-110-4\source\repos\progpara4\progpara4\bin\Debug\net8.0\progpara4.runtimeconfig.json
+C:\Users\4-110-4\source\repos\progpara4\progpara4\bin\Debug\net8.0\progpara4.dll
+C:\Users\4-110-4\source\repos\progpara4\progpara4\bin\Debug\net8.0\progpara4.pdb
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\progpara4.dll
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\refint\progpara4.dll
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\progpara4.pdb
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\progpara4.genruntimeconfig.cache
+C:\Users\4-110-4\source\repos\progpara4\progpara4\obj\Debug\net8.0\ref\progpara4.dll
