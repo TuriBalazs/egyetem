@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]; then
+ echo "$0 <könyvtár>"
+ exit 10
+elif ! [ -r $1 -a -d $1 ]; then
+ echo "$0 <könyvtár>"
+ exit 11
+elif [ `ls $1 | wc -l` -eq 0 ]; then
+ exit 12
+fi
+
+osszeg=0
+for i in `grep "^\(.*,\)\{6\}.*/201[0-9].*United States.*Sell" $1 -r | cut -d: -f2- | cut -d, -f11 | cut -f1 -d.`
+do
+        osszeg=`expr $osszeg + $i`
+done
+
+grep "^\(.*,\)\{6\}.*/201[0-9].*United States.*Sell" $1 -r | wc -l >log.txt
+echo $osszeg >> log.txt
