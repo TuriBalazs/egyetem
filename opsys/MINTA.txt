@@ -1,0 +1,26 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]; then
+ echo "$0 <könyvtár>"
+ exit 10
+elif ! [ -r $1 -a -d $1 ]; then
+ echo "$0 <könyvtár>"
+ exit 11
+elif [ `ls $1 | wc -l` -eq 0 ]; then
+ exit 12
+elif [ `echo $1 | grep "\.log$" > /dev/null` ]; then
+ exit 1
+fi
+
+
+osszes=0
+
+
+
+grep "^\[.* \(\(\(Sep\|Oct\|Nov\|Dec\).*2005\)\|\(\(Jan\|Feb\).*2006\)\)\] \[error\]" $1 | cut -f2,5,9- -d' ' > tmp_uniq.txt
+grep "^\[.* \(\(\(Sep\|Oct\|Nov\|Dec\).*2005\)\|\(\(Jan\|Feb\).*2006\)\)\] \[error\]" $1 | cut -f2,5,9- -d' ' | sort -u > tmp_uniq.txt
+
+lines=`wc l- < tmp_uniq.txt`
+for i in `seq $lines`; do
+        line=`head -$i`
+done
