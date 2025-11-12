@@ -1,0 +1,14 @@
+C:\Users\4-110-4\source\repos\progpara9\progpara9\bin\Debug\net8.0\progpara9.exe
+C:\Users\4-110-4\source\repos\progpara9\progpara9\bin\Debug\net8.0\progpara9.deps.json
+C:\Users\4-110-4\source\repos\progpara9\progpara9\bin\Debug\net8.0\progpara9.runtimeconfig.json
+C:\Users\4-110-4\source\repos\progpara9\progpara9\bin\Debug\net8.0\progpara9.dll
+C:\Users\4-110-4\source\repos\progpara9\progpara9\bin\Debug\net8.0\progpara9.pdb
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\progpara9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\progpara9.AssemblyInfoInputs.cache
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\progpara9.AssemblyInfo.cs
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\progpara9.csproj.CoreCompileInputs.cache
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\progpara9.dll
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\refint\progpara9.dll
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\progpara9.pdb
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\progpara9.genruntimeconfig.cache
+C:\Users\4-110-4\source\repos\progpara9\progpara9\obj\Debug\net8.0\ref\progpara9.dll
