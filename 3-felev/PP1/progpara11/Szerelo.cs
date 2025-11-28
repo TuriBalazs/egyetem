@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace progpara11
 {
-    internal class Szerelo : Dolgozo, IComparable<Szerelo>
+    internal class Szerelo : Dolgozo, IComparable<Szerelo> // igy kell származtatni, az Icomparable az összehasonlításhoz kell
     {
         char munkakor;
         public bool[] foglaltsag = new bool[10];
@@ -89,3 +89,4 @@ namespace progpara11
         }
     }
 }
+
