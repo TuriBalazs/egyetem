@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\10-2-3\source\repos\sza2\sza2\Source.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\10-2-3\source\repos\sza2\sza2\Source.cpp(41,16): warning C4101: 'name': unreferenced local variable
+  sza2.vcxproj -> C:\Users\10-2-3\source\repos\sza2\Debug\sza2.exe

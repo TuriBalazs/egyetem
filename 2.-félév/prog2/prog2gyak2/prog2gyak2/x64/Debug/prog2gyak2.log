@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\4-111-6\source\repos\prog2gyak2\prog2gyak2\FileName.cpp(134,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\4-111-6\source\repos\prog2gyak2\prog2gyak2\FileName.cpp(135,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  prog2gyak2.vcxproj -> C:\Users\4-111-6\source\repos\prog2gyak2\x64\Debug\prog2gyak2.exe
