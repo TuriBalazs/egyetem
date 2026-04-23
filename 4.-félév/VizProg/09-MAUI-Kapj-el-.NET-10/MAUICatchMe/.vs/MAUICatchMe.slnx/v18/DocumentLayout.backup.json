@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MAUI-Kapj-el\\MAUICatchMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C4218D-25D2-429B-B8A0-E488A6D732BC}|MAUICatchMe\\MAUICatchMe.csproj|c:\\maui-kapj-el\\mauicatchme\\mauicatchme\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C4218D-25D2-429B-B8A0-E488A6D732BC}|MAUICatchMe\\MAUICatchMe.csproj|solutionrelative:mauicatchme\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C4218D-25D2-429B-B8A0-E488A6D732BC}|MAUICatchMe\\MAUICatchMe.csproj|c:\\maui-kapj-el\\mauicatchme\\mauicatchme\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99C4218D-25D2-429B-B8A0-E488A6D732BC}|MAUICatchMe\\MAUICatchMe.csproj|solutionrelative:mauicatchme\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C4218D-25D2-429B-B8A0-E488A6D732BC}|MAUICatchMe\\MAUICatchMe.csproj|c:\\maui-kapj-el\\mauicatchme\\mauicatchme\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99C4218D-25D2-429B-B8A0-E488A6D732BC}|MAUICatchMe\\MAUICatchMe.csproj|solutionrelative:mauicatchme\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\MAUI-Kapj-el\\MAUICatchMe\\MAUICatchMe\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MAUICatchMe\\MainPage.xaml",
+              "ToolTip": "C:\\MAUI-Kapj-el\\MAUICatchMe\\MAUICatchMe\\MainPage.xaml",
+              "RelativeToolTip": "MAUICatchMe\\MainPage.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T11:34:53.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\MAUI-Kapj-el\\MAUICatchMe\\MAUICatchMe\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MAUICatchMe\\MainPage.xaml.cs",
+              "ToolTip": "C:\\MAUI-Kapj-el\\MAUICatchMe\\MAUICatchMe\\MainPage.xaml.cs",
+              "RelativeToolTip": "MAUICatchMe\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:33:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\MAUI-Kapj-el\\MAUICatchMe\\MAUICatchMe\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MAUICatchMe\\AppShell.xaml",
+              "ToolTip": "C:\\MAUI-Kapj-el\\MAUICatchMe\\MAUICatchMe\\AppShell.xaml",
+              "RelativeToolTip": "MAUICatchMe\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-09T11:31:48.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

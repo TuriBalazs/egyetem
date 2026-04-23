@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuessNumber.MainPage">
+
+    <VerticalStackLayout Margin="20">
+        <Label Text="Találd ki melyik négyjegyű számra gondoltam" HorizontalOptions="Center" HorizontalTextAlignment="Center" FontSize="Medium"/>
+        <StackLayout Margin="0,20,0,20" Orientation="Horizontal">
+            <Entry x:Name="enNumber" HorizontalOptions="FillAndExpand"/>
+            <Button Text="OK" Clicked="btOK_Clicked" Margin="20,0,20,0"/>
+            <Button Text="Új játék" Clicked="btNewGame_Clicked" HorizontalOptions="End"/>
+        </StackLayout>
+        <Label x:Name="llResult"/>
+        <ListView x:Name="lvResults" Margin="0,20,0,0">
+            <ListView.Header>
+                <Grid ColumnDefinitions="150,150,150">
+                    <Label Grid.Column="0" Text="Próbálkozás" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                    <BoxView Grid.Column="0" BackgroundColor="Black" HeightRequest="1" VerticalOptions="End"/>
+                    <Label Grid.Column="1" Text="Helyes" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                    <BoxView Grid.Column="1" BackgroundColor="Black" HeightRequest="1" VerticalOptions="End"/>
+                    <Label Grid.Column="2" Text="Jó helyen" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                    <BoxView Grid.Column="2" BackgroundColor="Black" HeightRequest="1" VerticalOptions="End"/>
+                </Grid>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid ColumnDefinitions="150,150,150">
+                            <Label Grid.Column="0" Text="{Binding Guess}" HorizontalTextAlignment="Center"/>
+                            <Label Grid.Column="1" Text="{Binding CorrectDigits}" HorizontalTextAlignment="Center" />
+                            <Label Grid.Column="2" Text="{Binding CorrectPositions}" HorizontalTextAlignment="Center"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+
+</ContentPage>

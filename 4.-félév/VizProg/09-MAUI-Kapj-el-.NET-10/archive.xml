@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>MauiKapjEl</Name>
+  <PackageName>com.companyname.mauikapjel</PackageName>
+  <PackageVersionCode>1</PackageVersionCode>
+  <PackageVersionName>1.0</PackageVersionName>
+  <PackageFormat>apk</PackageFormat>
+  <CreationDate>639125384943079439</CreationDate>
+  <SolutionName>MauiKapjEl</SolutionName>
+  <SolutionPath>C:\Users\suli\source\repos\MauiKapjEl\MauiKapjEl.slnx</SolutionPath>
+  <Status></Status>
+  <MinSdkVersion>21</MinSdkVersion>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+</Archive>
